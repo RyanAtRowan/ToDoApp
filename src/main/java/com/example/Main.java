@@ -102,7 +102,7 @@ public class Main {
             }
             date = "";
             isDate = false;
-
+            select = 0;
         }
 
         scanner.close();
